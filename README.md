@@ -4,8 +4,6 @@ Forked from petersimeth/basic-flask-template and edited for educational purposes
 
 A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 
-![alt text](https://github.com/petersimeth/basic-flask-template/blob/master/flask_screenshot.png?raw=true)
-
 ## Now up-to-date with Bootstrap 5.3.0 and jQuery 3.6.3
 
 ## How To Run
