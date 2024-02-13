@@ -136,7 +136,7 @@ Add the following to `login.html` after the part about the error:
 {% for message in get_flashed_messages() %}
         {{ message }}
 {% endfor %}
-``
+```
 We'll also add a logout link to the navbar.
 
 ```html
